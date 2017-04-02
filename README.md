@@ -18,7 +18,7 @@ This is the code for [this](https://youtu.be/t5qgjJIBy9g) video by Siraj Raval o
 
 ## Usage
 
-Run `python memorynetwork.py` in terminal and the code will begin training.
+Run `python interactive.py` in terminal and the code will begin training.
 
 ## Credits
 
